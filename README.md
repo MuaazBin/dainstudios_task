@@ -29,10 +29,14 @@ Please check the jupyter [notebook](https://github.com/MuaazBin/dainstudios_task
 
 # Insight
 
+![Gender Bar Chart](https://github.com/MuaazBin/dainstudios_task/blob/master/fig/1.png "Gender Bar Chart")
+
 + 1. The initial finding is whatever mechanism European social surveyors followed had a reach to both genders almost equally 
 (1. Male and 2. Female) as seen from the first bar chart.
 
 Thus first single basic insight could be that the same survey approach could be successfully used for selling unisex products or services but might not be effective for products or services highly tailored for one gender. But I could be wrong as well. The respondent of Gender A could be interested for a product relevant to Gender B.
+
+![Age Distribution](https://github.com/MuaazBin/dainstudios_task/blob/master/fig/2.PNG "Age Distribution")
 
 + 2. The other finding is that the finnish population compromises of more people in the age bracket of 45-75
 rather than 15-45. Since the data for 0-15 age is missing but still one can safely assume middle aged population seems higher.
