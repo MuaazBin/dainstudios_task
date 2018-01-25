@@ -23,7 +23,7 @@ Variables Selected:
 3. Country = Finland
 
 # Code
-Please check the kupyter [notebook]()
+Please check the kupyter [notebook](https://github.com/MuaazBin/dainstudios_task/blob/master/notebook/Insight%2Bfrom%2BESS.ipynb)
 
 # Insight
 
