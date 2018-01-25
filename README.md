@@ -22,6 +22,8 @@ Variables Selected:
 2. ESS Round = 7
 3. Country = Finland
 
+The data used in this analysis is also available in the data folder of the repository.
+
 # Code
 Please check the jupyter [notebook](https://github.com/MuaazBin/dainstudios_task/blob/master/notebook/Insight%2Bfrom%2BESS.ipynb)
 
