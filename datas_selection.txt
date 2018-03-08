@@ -1,3 +1,5 @@
 Variables: Gender, Age, Household composition
 Round: 7
 Country: Finland
+
+Author: Muaaz
